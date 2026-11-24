@@ -737,64 +737,20 @@ TextureImporter:
       name: Hoja de sprites del torero en movimiento_0
       rect:
         serializedVersion: 2
-        x: 68
+        x: 10
         y: 0
         width: 724
         height: 724
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 252, y: 53, z: 101, w: 50}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: e01a920ef75decd46a73010728d9c262
+      spriteID: f1c13de859fe61d70800000000000000
       internalID: 9013655129853991967
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hoja de sprites del torero en movimiento_1
-      rect:
-        serializedVersion: 2
-        x: 724
-        y: 0
-        width: 724
-        height: 724
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 21348719751ec0a449d5024034c4d481
-      internalID: 2416367658156319002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Hoja de sprites del torero en movimiento_2
-      rect:
-        serializedVersion: 2
-        x: 1326
-        y: 0
-        width: 724
-        height: 724
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dc8fb1c546882aa4ebde94502d57bc21
-      internalID: 1630299600382092397
       vertices: []
       indices: 
       edges: []
@@ -803,7 +759,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 971f9825542294a4cbd668c4ee3f9694
+    spriteID: 92ba7346f278ea8448862be273bf38d4
     internalID: 0
     vertices: []
     indices: 
@@ -813,7 +769,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":1.0},"gridSpriteSize":{"x":724.0,"y":724.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":1.0},"gridSpriteSize":{"x":724.0,"y":724.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Hoja de sprites del torero en movimiento_0: 9013655129853991967
       Hoja de sprites del torero en movimiento_1: 2416367658156319002

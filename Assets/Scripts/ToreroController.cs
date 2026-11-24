@@ -7,18 +7,15 @@ public class ToreroController : MonoBehaviour
     [SerializeField] private float velocidad = 6f;
     [SerializeField] private float fuerzaSalto = 12f;
 
-    [Header("Sprites")]
-    [SerializeField] private Sprite spriteIdle;
-    [SerializeField] private Sprite spriteCaminarDerecha;
-    [SerializeField] private Sprite spriteCaminarIzquierda;
-
     [Header("Deteccion del suelo")]
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
     [SerializeField] private float radioDeteccion = 0.15f;
 
+    [Header("Animaciones")]
+    [SerializeField] private Animator animator;
+
     private Rigidbody2D rb;
-    private SpriteRenderer spriteRenderer;
 
     private float movimiento;
     private bool estaEnSuelo;
@@ -26,7 +23,6 @@ public class ToreroController : MonoBehaviour
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
-        spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     private void Update()
@@ -39,12 +35,12 @@ public class ToreroController : MonoBehaviour
             groundLayer
         );
 
+        animator.SetFloat("MovimientoX", movimiento);
+
         if (Input.GetKeyDown(KeyCode.Space) && estaEnSuelo)
         {
             Saltar();
         }
-
-        ActualizarSprite();
     }
 
     private void FixedUpdate()
@@ -61,21 +57,5 @@ public class ToreroController : MonoBehaviour
             rb.linearVelocity.x,
             fuerzaSalto
         );
-    }
-
-    private void ActualizarSprite()
-    {
-        if (movimiento > 0)
-        {
-            spriteRenderer.sprite = spriteCaminarDerecha;
-        }
-        else if (movimiento < 0)
-        {
-            spriteRenderer.sprite = spriteCaminarIzquierda;
-        }
-        else
-        {
-            spriteRenderer.sprite = spriteIdle;
-        }
     }
 }
