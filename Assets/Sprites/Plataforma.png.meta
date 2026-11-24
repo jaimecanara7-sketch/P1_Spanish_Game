@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: ba9a882e9b40c7f4ca1efea77ebcd7ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1495946929333913861
+    second: Pixel Art Spanish Bull Banner_0
+  - first:
+      213: 9118218931471743921
+    second: Pixel Art Spanish Bull Banner_1
+  - first:
+      213: -4664394875050973823
+    second: Pixel Art Spanish Bull Banner_2
+  - first:
+      213: 6711614627514362421
+    second: Pixel Art Spanish Bull Banner_3
+  - first:
+      213: -760089099734493799
+    second: Pixel Art Spanish Bull Banner_4
+  - first:
+      213: -8803366311028026183
+    second: Pixel Art Spanish Bull Banner_5
+  - first:
+      213: 8467505272823338884
+    second: Pixel Art Spanish Bull Banner_6
+  - first:
+      213: -9138564991337740956
+    second: Pixel Art Spanish Bull Banner_7
+  - first:
+      213: -6843364565037165418
+    second: Pixel Art Spanish Bull Banner_8
+  - first:
+      213: 8992682003755070696
+    second: Pixel Art Spanish Bull Banner_9
+  - first:
+      213: 1792633579868103323
+    second: Pixel Art Spanish Bull Banner_10
+  - first:
+      213: 9147916450731637146
+    second: Pixel Art Spanish Bull Banner_11
+  - first:
+      213: -5385549191366542113
+    second: Pixel Art Spanish Bull Banner_12
+  - first:
+      213: 8593002832783738207
+    second: Pixel Art Spanish Bull Banner_13
+  - first:
+      213: 6872879310707587640
+    second: Pixel Art Spanish Bull Banner_14
+  - first:
+      213: 2568575452712239880
+    second: Pixel Art Spanish Bull Banner_15
+  - first:
+      213: 2516117317217614914
+    second: Pixel Art Spanish Bull Banner_16
+  - first:
+      213: -5726484731139820652
+    second: Pixel Art Spanish Bull Banner_17
+  - first:
+      213: -6766538565400792884
+    second: Pixel Art Spanish Bull Banner_18
+  - first:
+      213: 5991419874988058884
+    second: Pixel Art Spanish Bull Banner_19
+  - first:
+      213: -585678981870598726
+    second: Pixel Art Spanish Bull Banner_20
+  - first:
+      213: 2882695281426466308
+    second: Pixel Art Spanish Bull Banner_21
+  - first:
+      213: -6223282199702376746
+    second: Pixel Art Spanish Bull Banner_22
+  - first:
+      213: -1540223990930634454
+    second: Pixel Art Spanish Bull Banner_23
+  - first:
+      213: -4442903604518051168
+    second: Pixel Art Spanish Bull Banner_24
+  - first:
+      213: -5770054750602825243
+    second: Pixel Art Spanish Bull Banner_25
+  - first:
+      213: 8740163248758570310
+    second: Pixel Art Spanish Bull Banner_26
+  - first:
+      213: -6810171449492491650
+    second: Pixel Art Spanish Bull Banner_27
+  - first:
+      213: -7738728055662155437
+    second: Pixel Art Spanish Bull Banner_28
+  - first:
+      213: 2406768584375572841
+    second: Pixel Art Spanish Bull Banner_29
+  - first:
+      213: -3817308192151112488
+    second: Pixel Art Spanish Bull Banner_30
+  - first:
+      213: -9108430464252277828
+    second: Pixel Art Spanish Bull Banner_31
+  - first:
+      213: -6780511617249716808
+    second: Pixel Art Spanish Bull Banner_32
+  - first:
+      213: -4197526119356715436
+    second: Pixel Art Spanish Bull Banner_33
+  - first:
+      213: 8589837969217798646
+    second: Pixel Art Spanish Bull Banner_34
+  - first:
+      213: -6019814371509794642
+    second: Pixel Art Spanish Bull Banner_35
+  - first:
+      213: -5253710862345606642
+    second: Pixel Art Spanish Bull Banner_36
+  - first:
+      213: 2905397188642946267
+    second: Pixel Art Spanish Bull Banner_37
+  - first:
+      213: -8786742826603461957
+    second: Pixel Art Spanish Bull Banner_38
+  - first:
+      213: -404070812099488841
+    second: Pixel Art Spanish Bull Banner_39
+  - first:
+      213: 2640065273690363432
+    second: Pixel Art Spanish Bull Banner_40
+  - first:
+      213: 2868016782555735559
+    second: Pixel Art Spanish Bull Banner_41
+  - first:
+      213: -7753053256121055843
+    second: Pixel Art Spanish Bull Banner_42
+  - first:
+      213: -991837049329338678
+    second: Pixel Art Spanish Bull Banner_43
+  - first:
+      213: 2359678411774703663
+    second: Pixel Art Spanish Bull Banner_44
+  - first:
+      213: 4627897107706407348
+    second: Pixel Art Spanish Bull Banner_45
+  - first:
+      213: 5040506270893027205
+    second: Pixel Art Spanish Bull Banner_46
+  - first:
+      213: 3012554315008133923
+    second: Pixel Art Spanish Bull Banner_47
+  - first:
+      213: 7984275901237339835
+    second: Pixel Art Spanish Bull Banner_48
+  - first:
+      213: -3622056454363682263
+    second: Pixel Art Spanish Bull Banner_49
+  - first:
+      213: 1719047963799652220
+    second: Pixel Art Spanish Bull Banner_50
+  - first:
+      213: -4234397090611226390
+    second: Pixel Art Spanish Bull Banner_51
+  - first:
+      213: 8048378297554821313
+    second: Pixel Art Spanish Bull Banner_52
+  - first:
+      213: 4906054878480495978
+    second: Pixel Art Spanish Bull Banner_53
+  - first:
+      213: -1102231456204674920
+    second: Pixel Art Spanish Bull Banner_54
+  - first:
+      213: 2041276376665774440
+    second: Pixel Art Spanish Bull Banner_55
+  - first:
+      213: -5974989529730454671
+    second: Pixel Art Spanish Bull Banner_56
+  - first:
+      213: -5878659379828291677
+    second: Pixel Art Spanish Bull Banner_57
+  - first:
+      213: -4145809711368169430
+    second: Pixel Art Spanish Bull Banner_58
+  - first:
+      213: -8568334653760229261
+    second: Pixel Art Spanish Bull Banner_59
+  - first:
+      213: 8117422792576427696
+    second: Pixel Art Spanish Bull Banner_60
+  - first:
+      213: 6031414176988284268
+    second: Pixel Art Spanish Bull Banner_61
+  - first:
+      213: -5802479796506891490
+    second: Pixel Art Spanish Bull Banner_62
+  - first:
+      213: 2227227722028265720
+    second: Pixel Art Spanish Bull Banner_63
+  - first:
+      213: -6045403536018997045
+    second: Pixel Art Spanish Bull Banner_64
+  - first:
+      213: 6994328301991396964
+    second: Pixel Art Spanish Bull Banner_65
+  - first:
+      213: -8002159307380415452
+    second: Pixel Art Spanish Bull Banner_66
+  - first:
+      213: 4433738434252446714
+    second: Pixel Art Spanish Bull Banner_67
+  - first:
+      213: -1939354115915868634
+    second: Pixel Art Spanish Bull Banner_68
+  - first:
+      213: -2210312582314494223
+    second: Pixel Art Spanish Bull Banner_69
+  - first:
+      213: 626816265444733671
+    second: Pixel Art Spanish Bull Banner_70
+  - first:
+      213: 1752385882109232627
+    second: Pixel Art Spanish Bull Banner_71
+  - first:
+      213: -1731030654171339529
+    second: Pixel Art Spanish Bull Banner_72
+  - first:
+      213: 4461009057588525615
+    second: Pixel Art Spanish Bull Banner_73
+  - first:
+      213: -1920264582711605942
+    second: Pixel Art Spanish Bull Banner_74
+  - first:
+      213: 3783951549216700058
+    second: Pixel Art Spanish Bull Banner_75
+  - first:
+      213: 7719765962768123935
+    second: Pixel Art Spanish Bull Banner_76
+  - first:
+      213: -4088895371780214476
+    second: Pixel Art Spanish Bull Banner_77
+  - first:
+      213: -6052423681629136523
+    second: Pixel Art Spanish Bull Banner_78
+  - first:
+      213: -2968479519188225351
+    second: Pixel Art Spanish Bull Banner_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plataforma_0
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 210
+        width: 2016
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 7, w: 15}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464b29e0cfdcd774c845b18737eec14a
+      internalID: -366812153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fa7562003697670488cdebabdb435efa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":2172.0,"y":724.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Plataforma_0: -366812153
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
