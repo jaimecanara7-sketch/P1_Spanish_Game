@@ -5,7 +5,7 @@ public class ToreroController : MonoBehaviour
 {
     [Header("Movimiento")]
     [SerializeField] private float velocidad = 6f;
-    [SerializeField] private float fuerzaSalto = 12f;
+    [SerializeField] private float fuerzaSalto = 7f;
 
     [Header("Deteccion del suelo")]
     [SerializeField] private Transform groundCheck;

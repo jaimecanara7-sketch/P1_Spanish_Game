@@ -1,10 +1,28 @@
 fileFormatVersion: 2
-guid: 15f2741f451f64f419e253fdb1fbdff0
+guid: a0523c24dfa0b514c94cb6d898507e8c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4936055010199942508
-    second: Torero_Parado_276x399_0
+      213: 4525306701813839808
+    second: "Burladero pixelado con toros y n\xFAmeros_0"
+  - first:
+      213: 5201681291847934306
+    second: "Burladero pixelado con toros y n\xFAmeros_1"
+  - first:
+      213: 4673018242589788560
+    second: "Burladero pixelado con toros y n\xFAmeros_2"
+  - first:
+      213: -3337862497829238616
+    second: "Burladero pixelado con toros y n\xFAmeros_3"
+  - first:
+      213: -9138867699274693448
+    second: "Burladero pixelado con toros y n\xFAmeros_4"
+  - first:
+      213: -1864618518685343702
+    second: "Burladero pixelado con toros y n\xFAmeros_5"
+  - first:
+      213: 1024077855029220513
+    second: "Burladero pixelado con toros y n\xFAmeros_6"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,27 +114,40 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Torero_Parado_276x399_0
+      name: "Burladero pixelado con toros y n\xFAmeros_0"
       rect:
         serializedVersion: 2
-        x: 30
-        y: 0
-        width: 215
-        height: 399
+        x: 20
+        y: 233
+        width: 2138
+        height: 195
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 49ace3dde1c9f7bb0800000000000000
-      internalID: -4936055010199942508
+      spriteID: 0c7fe4d187e1dce30800000000000000
+      internalID: 4525306701813839808
       vertices: []
       indices: 
       edges: []
@@ -125,7 +156,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 515c19620d5b4ea4898d0e23023c947a
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +166,13 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Torero_Parado_276x399_0: -4936055010199942508
+      "Burladero pixelado con toros y n\xFAmeros_0": 4525306701813839808
+      "Burladero pixelado con toros y n\xFAmeros_1": 5201681291847934306
+      "Burladero pixelado con toros y n\xFAmeros_2": 4673018242589788560
+      "Burladero pixelado con toros y n\xFAmeros_3": -3337862497829238616
+      "Burladero pixelado con toros y n\xFAmeros_4": -9138867699274693448
+      "Burladero pixelado con toros y n\xFAmeros_5": -1864618518685343702
+      "Burladero pixelado con toros y n\xFAmeros_6": 1024077855029220513
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
