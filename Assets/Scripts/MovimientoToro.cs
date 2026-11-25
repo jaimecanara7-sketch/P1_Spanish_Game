@@ -10,15 +10,25 @@ public class MovimientoToro : MonoBehaviour
 
     private bool moviendoDerecha = true;
     private Animator animator;
+    private GameManager gameManager;
+    private AudioManager audioManager;
 
     private void Start()
     {
         animator = GetComponent<Animator>();
-        Debug.Log(animator.parameters.Length);
+        gameManager = FindFirstObjectByType<GameManager>();
+        audioManager = FindFirstObjectByType<AudioManager>();
+
+        animator.SetBool("MirandoDerecha", true);
     }
 
     private void Update()
     {
+        if (gameManager.PartidaTerminada)
+        {
+            return;
+        }
+
         MoverToro();
     }
 
@@ -33,14 +43,41 @@ public class MovimientoToro : MonoBehaviour
         if (moviendoDerecha &&
             transform.position.x >= limiteDerecho.position.x)
         {
-            moviendoDerecha = false;
-            animator.SetBool("MirandoDerecha", false);
+            CambiarDireccion();
         }
         else if (!moviendoDerecha &&
                  transform.position.x <= limiteIzquierdo.position.x)
         {
-            moviendoDerecha = true;
-            animator.SetBool("MirandoDerecha", true);
+            CambiarDireccion();
         }
+    }
+
+    private void CambiarDireccion()
+    {
+        moviendoDerecha = !moviendoDerecha;
+        animator.SetBool("MirandoDerecha", moviendoDerecha);
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (!collision.gameObject.CompareTag("Player"))
+        {
+            return;
+        }
+
+        float direccionEmpuje = moviendoDerecha ? -1f : 1f;
+
+        ToreroController torero =
+            collision.gameObject.GetComponent<ToreroController>();
+
+        if (torero != null)
+        {
+            torero.RecibirGolpe(direccionEmpuje);
+        }
+
+        gameManager.PerderVida();
+        audioManager.ReproducirFx();
+
+        CambiarDireccion();
     }
 }

@@ -1,3 +1,4 @@
+
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -8,18 +9,21 @@ public class GameManager : MonoBehaviour
     [SerializeField] private Image[] iconosCorazones;
 
     private int vidasActuales;
+    private bool partidaTerminada;
 
     public int VidasActuales => vidasActuales;
+    public bool PartidaTerminada => partidaTerminada;
 
     private void Start()
     {
         vidasActuales = vidasIniciales;
+        partidaTerminada = false;
         ActualizarCorazones();
     }
 
     public void PerderVida()
     {
-        if (vidasActuales <= 0)
+        if (vidasActuales <= 0 || partidaTerminada)
         {
             return;
         }
@@ -45,6 +49,19 @@ public class GameManager : MonoBehaviour
 
     private void FinDePartida()
     {
+        partidaTerminada = true;
+
+        AudioManager audioManager =
+            FindFirstObjectByType<AudioManager>();
+
+        if (audioManager != null)
+        {
+            audioManager.DetenerMusica();
+            Debug.Log("MUSICA DETENIDA");
+        }
+
+        Time.timeScale = 0f;
+
         Debug.Log("¡FIN DE PARTIDA!");
     }
 }

@@ -1,11 +1,17 @@
 
 using UnityEngine;
+using System.Collections;
 
 public class ToreroController : MonoBehaviour
 {
     [Header("Movimiento")]
     [SerializeField] private float velocidad = 6f;
     [SerializeField] private float fuerzaSalto = 7f;
+
+    [Header("Golpe")]
+    [SerializeField] private float fuerzaEmpuje = 9f;
+    [SerializeField] private float fuerzaVertical = 3f;
+    [SerializeField] private float tiempoSinControl = 0.3f;
 
     [Header("Deteccion del suelo")]
     [SerializeField] private Transform groundCheck;
@@ -16,9 +22,9 @@ public class ToreroController : MonoBehaviour
     [SerializeField] private Animator animator;
 
     private Rigidbody2D rb;
-
     private float movimiento;
     private bool estaEnSuelo;
+    private bool recibiendoGolpe;
 
     private void Awake()
     {
@@ -27,6 +33,11 @@ public class ToreroController : MonoBehaviour
 
     private void Update()
     {
+        if (recibiendoGolpe)
+        {
+            return;
+        }
+
         movimiento = Input.GetAxisRaw("Horizontal");
 
         estaEnSuelo = Physics2D.OverlapCircle(
@@ -45,6 +56,11 @@ public class ToreroController : MonoBehaviour
 
     private void FixedUpdate()
     {
+        if (recibiendoGolpe)
+        {
+            return;
+        }
+
         rb.linearVelocity = new Vector2(
             movimiento * velocidad,
             rb.linearVelocity.y
@@ -57,5 +73,34 @@ public class ToreroController : MonoBehaviour
             rb.linearVelocity.x,
             fuerzaSalto
         );
+    }
+
+    public void RecibirGolpe(float direccion)
+    {
+        if (recibiendoGolpe)
+        {
+            return;
+        }
+
+        StartCoroutine(AnimarGolpe(direccion));
+    }
+
+    private IEnumerator AnimarGolpe(float direccion)
+    {
+        recibiendoGolpe = true;
+        movimiento = 0f;
+
+        animator.SetFloat("MovimientoX", 0f);
+
+        rb.linearVelocity = Vector2.zero;
+
+        rb.AddForce(
+            new Vector2(direccion * fuerzaEmpuje, fuerzaVertical),
+            ForceMode2D.Impulse
+        );
+
+        yield return new WaitForSeconds(tiempoSinControl);
+
+        recibiendoGolpe = false;
     }
 }
