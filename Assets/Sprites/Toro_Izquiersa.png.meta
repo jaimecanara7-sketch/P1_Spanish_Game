@@ -1,0 +1,457 @@
+fileFormatVersion: 2
+guid: 827a80d560738bd44b6d0707c9db662c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 86842938513447890
+    second: toro_izquierda_transparente_0
+  - first:
+      213: -7894335541772406436
+    second: toro_izquierda_transparente_1
+  - first:
+      213: -6170236265912419026
+    second: toro_izquierda_transparente_2
+  - first:
+      213: 4046062499012190155
+    second: toro_izquierda_transparente_3
+  - first:
+      213: 8477245338198946076
+    second: toro_izquierda_transparente_4
+  - first:
+      213: 538872425521339992
+    second: toro_izquierda_transparente_5
+  - first:
+      213: -3943630363817218521
+    second: toro_izquierda_transparente_6
+  - first:
+      213: 8101174526279230023
+    second: toro_izquierda_transparente_7
+  - first:
+      213: -7391535185835353801
+    second: toro_izquierda_transparente_8
+  - first:
+      213: 6609407741855655332
+    second: toro_izquierda_transparente_9
+  - first:
+      213: -2120492120641526916
+    second: toro_izquierda_transparente_10
+  - first:
+      213: 6865083436761851602
+    second: toro_izquierda_transparente_11
+  - first:
+      213: -5268521214947446497
+    second: toro_izquierda_transparente_12
+  - first:
+      213: 4359962611121917882
+    second: toro_izquierda_transparente_13
+  - first:
+      213: -3435526640085411364
+    second: toro_izquierda_transparente_14
+  - first:
+      213: 5611106279305363026
+    second: toro_izquierda_transparente_15
+  - first:
+      213: 4248265879022441549
+    second: toro_izquierda_transparente_16
+  - first:
+      213: 1707987801353166590
+    second: toro_izquierda_transparente_17
+  - first:
+      213: 4154156335169916852
+    second: toro_izquierda_transparente_18
+  - first:
+      213: 9190899240314471260
+    second: toro_izquierda_transparente_19
+  - first:
+      213: -6515121503010492750
+    second: toro_izquierda_transparente_20
+  - first:
+      213: -745791406097773900
+    second: toro_izquierda_transparente_21
+  - first:
+      213: 3948539768171625001
+    second: toro_izquierda_transparente_22
+  - first:
+      213: -3476055343197372898
+    second: toro_izquierda_transparente_23
+  - first:
+      213: 4762916602994150116
+    second: toro_izquierda_transparente_24
+  - first:
+      213: -4479092690271151763
+    second: toro_izquierda_transparente_25
+  - first:
+      213: -6502023912835285871
+    second: toro_izquierda_transparente_26
+  - first:
+      213: -1206973218765634388
+    second: toro_izquierda_transparente_27
+  - first:
+      213: -8930196895234427312
+    second: toro_izquierda_transparente_28
+  - first:
+      213: -8978583128396348414
+    second: toro_izquierda_transparente_29
+  - first:
+      213: -4897223572707862915
+    second: toro_izquierda_transparente_30
+  - first:
+      213: -5073849340212240342
+    second: toro_izquierda_transparente_31
+  - first:
+      213: -7185296124457442925
+    second: toro_izquierda_transparente_32
+  - first:
+      213: -1231627863869940350
+    second: toro_izquierda_transparente_33
+  - first:
+      213: -7060483360648665349
+    second: toro_izquierda_transparente_34
+  - first:
+      213: -6516044151317793206
+    second: toro_izquierda_transparente_35
+  - first:
+      213: 1254449167994400906
+    second: toro_izquierda_transparente_36
+  - first:
+      213: 5278514216062449138
+    second: toro_izquierda_transparente_37
+  - first:
+      213: 392242717926650533
+    second: toro_izquierda_transparente_38
+  - first:
+      213: 6620720230405808915
+    second: toro_izquierda_transparente_39
+  - first:
+      213: 3745523879157042174
+    second: toro_izquierda_transparente_40
+  - first:
+      213: 7394101218332751833
+    second: toro_izquierda_transparente_41
+  - first:
+      213: 4342455573176653822
+    second: toro_izquierda_transparente_42
+  - first:
+      213: -848855519948862471
+    second: toro_izquierda_transparente_43
+  - first:
+      213: 1889285375645655601
+    second: toro_izquierda_transparente_44
+  - first:
+      213: 5082016407604412190
+    second: toro_izquierda_transparente_45
+  - first:
+      213: -1838100062371705870
+    second: toro_izquierda_transparente_46
+  - first:
+      213: -4320783969433924300
+    second: toro_izquierda_transparente_47
+  - first:
+      213: -5376495633248042542
+    second: toro_izquierda_transparente_48
+  - first:
+      213: -5955567506198208214
+    second: toro_izquierda_transparente_49
+  - first:
+      213: 9018052615575361911
+    second: toro_izquierda_transparente_50
+  - first:
+      213: 3435125304117304407
+    second: toro_izquierda_transparente_51
+  - first:
+      213: 2974279441141933278
+    second: toro_izquierda_transparente_52
+  - first:
+      213: -6215030772691237697
+    second: toro_izquierda_transparente_53
+  - first:
+      213: 8064727838132437558
+    second: toro_izquierda_transparente_54
+  - first:
+      213: 7082693455905252956
+    second: toro_izquierda_transparente_55
+  - first:
+      213: 7423329599472540184
+    second: toro_izquierda_transparente_56
+  - first:
+      213: 777320723000615878
+    second: toro_izquierda_transparente_57
+  - first:
+      213: -4823984371553550477
+    second: toro_izquierda_transparente_58
+  - first:
+      213: 1027380632046555967
+    second: toro_izquierda_transparente_59
+  - first:
+      213: -98962864140240782
+    second: toro_izquierda_transparente_60
+  - first:
+      213: -5270314189322240953
+    second: toro_izquierda_transparente_61
+  - first:
+      213: -4430408352230215313
+    second: toro_izquierda_transparente_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: toro_izquierda_transparente_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 195
+        width: 503
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db58554137843100800000000000000
+      internalID: 86842938513447890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toro_izquierda_transparente_1
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 199
+        width: 492
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c513ae696afa17290800000000000000
+      internalID: -7894335541772406436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toro_izquierda_transparente_2
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 197
+        width: 497
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dbe06becaee5aa0800000000000000
+      internalID: -6170236265912419026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toro_izquierda_transparente_3
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 197
+        width: 507
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf96a8e760862830800000000000000
+      internalID: 4046062499012190155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5da2674c30c3c8543ba1b22400248292
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      toro_izquierda_transparente_0: 86842938513447890
+      toro_izquierda_transparente_1: -7894335541772406436
+      toro_izquierda_transparente_10: -2120492120641526916
+      toro_izquierda_transparente_11: 6865083436761851602
+      toro_izquierda_transparente_12: -5268521214947446497
+      toro_izquierda_transparente_13: 4359962611121917882
+      toro_izquierda_transparente_14: -3435526640085411364
+      toro_izquierda_transparente_15: 5611106279305363026
+      toro_izquierda_transparente_16: 4248265879022441549
+      toro_izquierda_transparente_17: 1707987801353166590
+      toro_izquierda_transparente_18: 4154156335169916852
+      toro_izquierda_transparente_19: 9190899240314471260
+      toro_izquierda_transparente_2: -6170236265912419026
+      toro_izquierda_transparente_20: -6515121503010492750
+      toro_izquierda_transparente_21: -745791406097773900
+      toro_izquierda_transparente_22: 3948539768171625001
+      toro_izquierda_transparente_23: -3476055343197372898
+      toro_izquierda_transparente_24: 4762916602994150116
+      toro_izquierda_transparente_25: -4479092690271151763
+      toro_izquierda_transparente_26: -6502023912835285871
+      toro_izquierda_transparente_27: -1206973218765634388
+      toro_izquierda_transparente_28: -8930196895234427312
+      toro_izquierda_transparente_29: -8978583128396348414
+      toro_izquierda_transparente_3: 4046062499012190155
+      toro_izquierda_transparente_30: -4897223572707862915
+      toro_izquierda_transparente_31: -5073849340212240342
+      toro_izquierda_transparente_32: -7185296124457442925
+      toro_izquierda_transparente_33: -1231627863869940350
+      toro_izquierda_transparente_34: -7060483360648665349
+      toro_izquierda_transparente_35: -6516044151317793206
+      toro_izquierda_transparente_36: 1254449167994400906
+      toro_izquierda_transparente_37: 5278514216062449138
+      toro_izquierda_transparente_38: 392242717926650533
+      toro_izquierda_transparente_39: 6620720230405808915
+      toro_izquierda_transparente_4: 8477245338198946076
+      toro_izquierda_transparente_40: 3745523879157042174
+      toro_izquierda_transparente_41: 7394101218332751833
+      toro_izquierda_transparente_42: 4342455573176653822
+      toro_izquierda_transparente_43: -848855519948862471
+      toro_izquierda_transparente_44: 1889285375645655601
+      toro_izquierda_transparente_45: 5082016407604412190
+      toro_izquierda_transparente_46: -1838100062371705870
+      toro_izquierda_transparente_47: -4320783969433924300
+      toro_izquierda_transparente_48: -5376495633248042542
+      toro_izquierda_transparente_49: -5955567506198208214
+      toro_izquierda_transparente_5: 538872425521339992
+      toro_izquierda_transparente_50: 9018052615575361911
+      toro_izquierda_transparente_51: 3435125304117304407
+      toro_izquierda_transparente_52: 2974279441141933278
+      toro_izquierda_transparente_53: -6215030772691237697
+      toro_izquierda_transparente_54: 8064727838132437558
+      toro_izquierda_transparente_55: 7082693455905252956
+      toro_izquierda_transparente_56: 7423329599472540184
+      toro_izquierda_transparente_57: 777320723000615878
+      toro_izquierda_transparente_58: -4823984371553550477
+      toro_izquierda_transparente_59: 1027380632046555967
+      toro_izquierda_transparente_6: -3943630363817218521
+      toro_izquierda_transparente_60: -98962864140240782
+      toro_izquierda_transparente_61: -5270314189322240953
+      toro_izquierda_transparente_62: -4430408352230215313
+      toro_izquierda_transparente_7: 8101174526279230023
+      toro_izquierda_transparente_8: -7391535185835353801
+      toro_izquierda_transparente_9: 6609407741855655332
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

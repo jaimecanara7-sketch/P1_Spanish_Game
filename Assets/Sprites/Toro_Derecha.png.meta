@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: f62fd4496b571c64eb1166ff51344f8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3339219983250927975
+    second: toro_derecha_transparente_0
+  - first:
+      213: 9031656228827725450
+    second: toro_derecha_transparente_1
+  - first:
+      213: -6344325934385463364
+    second: toro_derecha_transparente_2
+  - first:
+      213: -6389289767837744860
+    second: toro_derecha_transparente_3
+  - first:
+      213: 392408728691918718
+    second: toro_derecha_transparente_4
+  - first:
+      213: 7714571481409785294
+    second: toro_derecha_transparente_5
+  - first:
+      213: -7340721502819380901
+    second: toro_derecha_transparente_6
+  - first:
+      213: -1404054809341081712
+    second: toro_derecha_transparente_7
+  - first:
+      213: 177899093931266736
+    second: toro_derecha_transparente_8
+  - first:
+      213: -1686169535903909543
+    second: toro_derecha_transparente_9
+  - first:
+      213: 2722826847403376344
+    second: toro_derecha_transparente_10
+  - first:
+      213: -5045894078884864594
+    second: toro_derecha_transparente_11
+  - first:
+      213: -38312482321629396
+    second: toro_derecha_transparente_12
+  - first:
+      213: 8975268053041093539
+    second: toro_derecha_transparente_13
+  - first:
+      213: 9158789443044824586
+    second: toro_derecha_transparente_14
+  - first:
+      213: -343990574304520948
+    second: toro_derecha_transparente_15
+  - first:
+      213: 5648711775548289415
+    second: toro_derecha_transparente_16
+  - first:
+      213: -3868736525881787732
+    second: toro_derecha_transparente_17
+  - first:
+      213: 3133858306918397749
+    second: toro_derecha_transparente_18
+  - first:
+      213: -4857632633382968974
+    second: toro_derecha_transparente_19
+  - first:
+      213: 4502809027659167293
+    second: toro_derecha_transparente_20
+  - first:
+      213: 707499987341302055
+    second: toro_derecha_transparente_21
+  - first:
+      213: 5902285945347475051
+    second: toro_derecha_transparente_22
+  - first:
+      213: -6623957897750485842
+    second: toro_derecha_transparente_23
+  - first:
+      213: -2472392239381360243
+    second: toro_derecha_transparente_24
+  - first:
+      213: 8692719687954839449
+    second: toro_derecha_transparente_25
+  - first:
+      213: 700883704320585704
+    second: toro_derecha_transparente_26
+  - first:
+      213: 4707760536635197887
+    second: toro_derecha_transparente_27
+  - first:
+      213: 8206772772323733350
+    second: toro_derecha_transparente_28
+  - first:
+      213: 6346818822668126797
+    second: toro_derecha_transparente_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Toro_Derecha_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 209
+        width: 497
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f694722b3288eb9499629977a300cd0f
+      internalID: -963197825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toro_Derecha_1
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 213
+        width: 503
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f136eae83bb56f4f837ef85b23d4254
+      internalID: -2028880803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toro_Derecha_2
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 208
+        width: 498
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290a0775e4eb1df4fa4fc71a92d21373
+      internalID: 1900029078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toro_Derecha_3
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 212
+        width: 503
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b52cc9a8478c1145a0a6c0192ce5a11
+      internalID: 1432061875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: da3e27863dc17e94f97c031ddbffde0a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Toro_Derecha_0: -963197825
+      Toro_Derecha_1: -2028880803
+      Toro_Derecha_2: 1900029078
+      Toro_Derecha_3: 1432061875
+      toro_derecha_transparente_0: 3339219983250927975
+      toro_derecha_transparente_1: 9031656228827725450
+      toro_derecha_transparente_10: 2722826847403376344
+      toro_derecha_transparente_11: -5045894078884864594
+      toro_derecha_transparente_12: -38312482321629396
+      toro_derecha_transparente_13: 8975268053041093539
+      toro_derecha_transparente_14: 9158789443044824586
+      toro_derecha_transparente_15: -343990574304520948
+      toro_derecha_transparente_16: 5648711775548289415
+      toro_derecha_transparente_17: -3868736525881787732
+      toro_derecha_transparente_18: 3133858306918397749
+      toro_derecha_transparente_19: -4857632633382968974
+      toro_derecha_transparente_2: -6344325934385463364
+      toro_derecha_transparente_20: 4502809027659167293
+      toro_derecha_transparente_21: 707499987341302055
+      toro_derecha_transparente_22: 5902285945347475051
+      toro_derecha_transparente_23: -6623957897750485842
+      toro_derecha_transparente_24: -2472392239381360243
+      toro_derecha_transparente_25: 8692719687954839449
+      toro_derecha_transparente_26: 700883704320585704
+      toro_derecha_transparente_27: 4707760536635197887
+      toro_derecha_transparente_28: 8206772772323733350
+      toro_derecha_transparente_29: 6346818822668126797
+      toro_derecha_transparente_3: -6389289767837744860
+      toro_derecha_transparente_4: 392408728691918718
+      toro_derecha_transparente_5: 7714571481409785294
+      toro_derecha_transparente_6: -7340721502819380901
+      toro_derecha_transparente_7: -1404054809341081712
+      toro_derecha_transparente_8: 177899093931266736
+      toro_derecha_transparente_9: -1686169535903909543
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
